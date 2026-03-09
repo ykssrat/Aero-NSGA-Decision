@@ -1,0 +1,951 @@
+{
+  "Components_WithCase": {
+    "Param1": [
+      {
+        "Cost": 800,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      }
+    ],
+    "Param2": [
+      {
+        "Cost": 3500,
+        "Perf": 75,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 4000,
+        "Perf": 80,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 4500,
+        "Perf": 85,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 5000,
+        "Perf": 90,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 5500,
+        "Perf": 95,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 6000,
+        "Perf": 100,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 6500,
+        "Perf": 105,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 7000,
+        "Perf": 110,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 7500,
+        "Perf": 115,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 8000,
+        "Perf": 120,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param3": [
+      {
+        "Cost": 700,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 800,
+        "Perf": 75,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 900,
+        "Perf": 80,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1000,
+        "Perf": 85,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1100,
+        "Perf": 90,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1200,
+        "Perf": 95,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1300,
+        "Perf": 100,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1400,
+        "Perf": 105,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1500,
+        "Perf": 110,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1600,
+        "Perf": 115,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param4": [
+      {
+        "Cost": 300,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 500,
+        "Perf": 75,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 700,
+        "Perf": 80,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 900,
+        "Perf": 85,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1100,
+        "Perf": 90,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1300,
+        "Perf": 95,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1500,
+        "Perf": 100,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1700,
+        "Perf": 105,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1900,
+        "Perf": 110,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 2100,
+        "Perf": 115,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param5": [
+      {
+        "Cost": 400,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 600,
+        "Perf": 75,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 800,
+        "Perf": 80,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1000,
+        "Perf": 85,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1200,
+        "Perf": 90,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1400,
+        "Perf": 95,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1600,
+        "Perf": 100,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1800,
+        "Perf": 105,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 2000,
+        "Perf": 110,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 2200,
+        "Perf": 115,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param6": [
+      {
+        "Cost": 200,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 400,
+        "Perf": 75,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 600,
+        "Perf": 80,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 800,
+        "Perf": 85,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1000,
+        "Perf": 90,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1200,
+        "Perf": 95,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1400,
+        "Perf": 100,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1600,
+        "Perf": 105,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1800,
+        "Perf": 110,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 2000,
+        "Perf": 115,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param7": [
+      {
+        "Cost": 200,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 400,
+        "Perf": 75,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 600,
+        "Perf": 80,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 800,
+        "Perf": 85,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1000,
+        "Perf": 90,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1200,
+        "Perf": 95,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1400,
+        "Perf": 100,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1600,
+        "Perf": 105,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1800,
+        "Perf": 110,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 2000,
+        "Perf": 115,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ]
+  },
+  "Components_WithoutCase": {
+    "Param1": [
+      {
+        "Cost": 750,
+        "Perf": 65,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 850,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 950,
+        "Perf": 75,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1050,
+        "Perf": 80,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1150,
+        "Perf": 85,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1250,
+        "Perf": 90,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1350,
+        "Perf": 95,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1450,
+        "Perf": 100,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1550,
+        "Perf": 105,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1650,
+        "Perf": 110,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param2": [
+      {
+        "Cost": 1500,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1750,
+        "Perf": 75,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 2000,
+        "Perf": 80,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 2250,
+        "Perf": 85,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 2500,
+        "Perf": 90,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 2750,
+        "Perf": 95,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 3000,
+        "Perf": 100,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 3250,
+        "Perf": 105,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 3500,
+        "Perf": 110,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 3750,
+        "Perf": 115,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param3": [
+      {
+        "Cost": 650,
+        "Perf": 65,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 750,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 850,
+        "Perf": 75,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 950,
+        "Perf": 80,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1050,
+        "Perf": 85,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1150,
+        "Perf": 90,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1250,
+        "Perf": 95,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1350,
+        "Perf": 100,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1450,
+        "Perf": 105,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1550,
+        "Perf": 110,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param4": [
+      {
+        "Cost": 350,
+        "Perf": 65,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 450,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 550,
+        "Perf": 75,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 650,
+        "Perf": 80,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 750,
+        "Perf": 85,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 850,
+        "Perf": 90,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 950,
+        "Perf": 95,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1050,
+        "Perf": 100,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1150,
+        "Perf": 105,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1250,
+        "Perf": 110,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param5": [
+      {
+        "Cost": 350,
+        "Perf": 65,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 450,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 550,
+        "Perf": 75,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 650,
+        "Perf": 80,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 750,
+        "Perf": 85,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 850,
+        "Perf": 90,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 950,
+        "Perf": 95,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1050,
+        "Perf": 100,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 1150,
+        "Perf": 105,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1250,
+        "Perf": 110,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param6": [
+      {
+        "Cost": 150,
+        "Perf": 65,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 250,
+        "Perf": 70,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 350,
+        "Perf": 75,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 450,
+        "Perf": 80,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 550,
+        "Perf": 85,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 650,
+        "Perf": 90,
+        "Attr3": 1,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 750,
+        "Perf": 95,
+        "Attr3": 0,
+        "Attr4": 1,
+        "Attr5": 1
+      },
+      {
+        "Cost": 850,
+        "Perf": 100,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 0
+      },
+      {
+        "Cost": 950,
+        "Perf": 105,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 1
+      },
+      {
+        "Cost": 1050,
+        "Perf": 110,
+        "Attr3": 1,
+        "Attr4": 1,
+        "Attr5": 1
+      }
+    ],
+    "Param7": [
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      },
+      {
+        "Cost": 0,
+        "Perf": 0,
+        "Attr3": 0,
+        "Attr4": 0,
+        "Attr5": 0
+      }
+    ]
+  }
+}
